@@ -4,6 +4,29 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "Tayota Camry 40": [
+    {
+      "id": 1,
+      "model": "Tayota Camry 40",
+      "year":"2017",
+      "color": "gold",
+      "price":"8000000"
+    },
+    {
+      "id": 2,
+      "model": "Tayota Camry 40",
+      "year":"2015",
+      "color": "black",
+      "price":"7500000"
+    },
+    {
+      "id": 3,
+     "title": "Tayota Camry 40",
+      "year":"2019",
+      "color": "white",
+      "price":"9000000"
+    }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
